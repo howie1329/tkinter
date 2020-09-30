@@ -1,1 +1,1 @@
-# Tkinter Sample
+# Tkinter Example
